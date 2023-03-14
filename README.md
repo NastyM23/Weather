@@ -19,7 +19,7 @@ A simple application that allows you to view the weather in different cities.
 
 # Preview
 <div align="center">
-<img src="Weather/PreviewContent/darkMode.PNG" height="598" width="272" alt="darkNode">
-<img src="Weather/PreviewContent/textField.PNG" height="598" width="272" alt="textField">
-<img src="Weather/PreviewContent/lightMode.PNG"height="598" width="272" alt="lightMode">
+<img src="Weather/PreviewContent/darkMode.PNG" height="498" width="227" alt="darkNode">
+<img src="Weather/PreviewContent/textField.PNG" height="498" width="227" alt="textField">
+<img src="Weather/PreviewContent/lightMode.PNG" height="498" width="227" alt="lightMode">
 </div>
